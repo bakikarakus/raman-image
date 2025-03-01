@@ -9,3 +9,7 @@ Note: Placenta spectra are used in this project.
 Note: If you are having trouble, feel free to send me email:
 
 muhammet.karakus@std.bogazici.edu.tr
+
+# Prerequisites
+
+- python 3.8.5
